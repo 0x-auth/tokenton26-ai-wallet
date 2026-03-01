@@ -1,0 +1,7 @@
+{
+  "token_address": "YOUR_TOKEN_ADDRESS_HERE",
+  "wallet": "YOUR_WALLET_ADDRESS_HERE",
+  "network": "devnet",
+  "supply": "1000000000",
+  "explorer": "https://explorer.solana.com/address/YOUR_TOKEN_ADDRESS?cluster=devnet"
+}
