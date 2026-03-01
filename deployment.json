@@ -1,0 +1,14 @@
+{
+  "network": "devnet",
+  "token": {
+    "name": "TokenTon26",
+    "symbol": "TT26",
+    "mint": "3earn5MiY5qYjLsteXEcMXoyWcm3C43KXDkCj31y3fmH",
+    "decimals": 9,
+    "totalSupply": 1000000000
+  },
+  "tokenAccount": "8R1VaanupyhhootkiZsQDKCgUsf7pJwkfT7dAveijxnE",
+  "authority": "C3uuVsx5b3WUaoctjLQNXCaV3jXRbfaSETCWW5dHPBhq",
+  "deployedAt": "2026-03-01",
+  "explorer": "https://explorer.solana.com/address/3earn5MiY5qYjLsteXEcMXoyWcm3C43KXDkCj31y3fmH?cluster=devnet"
+}
